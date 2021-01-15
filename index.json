@@ -1,0 +1,32 @@
+
+{
+    "title": "2DB Kiroldenda",
+    "description": "KirolDenda Datu basea",
+    "difficulty": "Advanced",
+    "time": "60 minutes",
+    "details": {
+      "steps": [
+        {
+          "title": "Sarrera",
+          "text": "sarrera.md",
+          "code": "start.sh"
+        },
+        {
+            "title": "Amaiera",
+            "text": "amaiera.md"
+        }
+      ],
+      "intro": {
+        "text": "sarrera.md"
+      },
+      "finish": {
+        "text": "amaiera.md"
+      }
+    },
+    "environment": {
+      "uilayout": "terminal"
+    },
+    "backend": {
+      "imageid": "ubuntu2004"
+    }
+  }
